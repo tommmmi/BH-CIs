@@ -23,3 +23,5 @@ The basic principles of B-H procedure is to select a desired false discovery rat
 An example program can be run as-is - it utilizes `SASHELP` data.
 
 ![Output](example_data.png)
+
+#### Any feedback is warmly welcome!
