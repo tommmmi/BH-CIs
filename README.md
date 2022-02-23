@@ -17,3 +17,7 @@ The basic principles of B-H procedure is to select a desired false discovery rat
 * Quantile from the Student's t distribution is defined using adjusted Alpha
 * p-value is the probability from the Student's t distribution scaled by adjusted Alpha
 * Confidence interval is calculated from estimate and its standard error by "penalizing" with derived t distribution quantile
+
+### Example
+
+An example program can be run as-is - it utilizes `SASHELP` data.
